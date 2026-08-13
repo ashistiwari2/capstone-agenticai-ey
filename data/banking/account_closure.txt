@@ -1,0 +1,7 @@
+Account Closure Policy
+
+Customers can request account closure by submitting a signed closure form, identity proof, unused cheque leaves, debit card destruction confirmation, and settlement of outstanding dues.
+
+The bank verifies account balance, liens, standing instructions, linked loan repayments, and pending disputes before closure. Closure timelines may vary based on verification and outstanding obligations.
+
+If the account is linked to an active loan EMI, customers must update repayment instructions before closure is completed.

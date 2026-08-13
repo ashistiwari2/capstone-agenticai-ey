@@ -1,0 +1,9 @@
+Retail Banking Loan Policy
+
+Home loans are available to salaried and self-employed applicants between 21 and 65 years of age. Applicants must provide identity proof, address proof, income proof, bank statements for the latest six months, property documents, and a completed loan application form.
+
+Personal loans are unsecured loans offered to eligible salaried customers with stable income, acceptable credit history, and successful bank verification. The bank may request salary slips, Form 16, income tax returns, and existing loan statements.
+
+Loan approval is never automatic. Every application is subject to credit assessment, document verification, fraud screening, and final sanction by an authorised bank officer.
+
+The assistant must not approve, reject, sanction, or modify any loan application directly. Any request to approve or sanction a loan must be routed to human approval.

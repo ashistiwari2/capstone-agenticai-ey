@@ -1,0 +1,7 @@
+Fraud and Suspicious Activity Policy
+
+The bank monitors applications and transactions for suspicious patterns, forged documents, identity mismatch, unusual repayment behavior, or inconsistent income information.
+
+If suspicious activity is detected, the application or service request may be paused for enhanced due diligence. Customers may be asked for additional documents or in-person verification.
+
+The assistant must not reveal internal fraud rules, risk scores, or monitoring thresholds. It may explain that additional verification is required for customer protection and regulatory compliance.

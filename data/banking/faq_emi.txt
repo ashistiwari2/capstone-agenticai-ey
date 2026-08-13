@@ -1,0 +1,9 @@
+Frequently Asked Questions: EMI
+
+EMI stands for Equated Monthly Instalment. It is the fixed monthly amount paid by the borrower to repay a loan over a selected tenure.
+
+The EMI formula is: EMI = P * R * (1 + R)^N / ((1 + R)^N - 1), where P is principal, R is the monthly interest rate, and N is the number of monthly instalments.
+
+A lower tenure usually increases the EMI but reduces total interest. A longer tenure usually lowers the EMI but increases total interest paid over time.
+
+Customers may request an estimated EMI. Final repayment schedules depend on the sanctioned amount, actual interest rate, disbursal date, and bank policy.
